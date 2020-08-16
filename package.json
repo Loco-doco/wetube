@@ -1,0 +1,16 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "youtube clone with VanillaJS and NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loco-doco/wetube.git"
+  },
+  "author": "kenny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loco-doco/wetube/issues"
+  },
+  "homepage": "https://github.com/Loco-doco/wetube#readme"
+}
